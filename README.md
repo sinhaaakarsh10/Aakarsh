@@ -1,2 +1,0 @@
-# Aakarsh
-Python Company test
